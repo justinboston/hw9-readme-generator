@@ -1,14 +1,22 @@
 {
-  "name": "static-site",
+  "name": "hw9-readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Your Task",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "justinboston",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinboston/hw9-readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justinboston/hw9-readme-generator/issues"
+  },
+  "homepage": "https://github.com/justinboston/hw9-readme-generator#readme"
 }
