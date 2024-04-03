@@ -1,4 +1,4 @@
-# title 
+# README Generator Example #1 
 
   
   ![Liscense](https://img.shields.io/github/license/justinboston/hw9-readme-generator)
@@ -16,19 +16,24 @@
   * [Email](#email)
 
   ## Description
-  what why how
+  This demo README will serve as an example of how to use my README generator application to create a README file that saves to the users <b>Output</b> foler.
 
   ## Project Links
-  xyz xyz
+  As an aspiring developer, I want to create an example README using the README generator, SO that when other developers would like to use my application, they have a demo video & file to refer to.
 
   ## Usage
-  na
+  To view the demo video that was captured when this example README file was generated, please refer to the <b>#Usage</b> section of this GitHub repo: https://github.com/justinboston/hw9-readme-generator
 
   ## Technologies
-  html,css,javascript,other
+  <ul>
+  <li>html</li>
+  <li>javascript</li>
+  <li>node.js</li>
+  <li>inquirer.js</li>
+  </ul>
 
   ## Liscense
-  Apache Liscense 2.0
+  MIT
 
   ## GitHub
   justinboston
